@@ -1,2 +1,2 @@
 # Cybersecurity Trainee
-Building, Breaking, and Securing Networks & Systems."
+Building, Breaking, and Securing Networks & Systems.
